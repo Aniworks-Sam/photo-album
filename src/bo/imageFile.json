@@ -1,0 +1,32 @@
+[
+  {
+    "imageId": "1",
+    "imageURL": "https://picsum.photos/",
+    "height": 200,
+    "width": 200
+  },
+  {
+    "imageId": "2",
+    "imageURL": "https://picsum.photos/",
+    "height": 200,
+    "width": 400
+  },
+  {
+    "imageId": "3",
+    "imageURL": "https://picsum.photos/",
+    "height": 400,
+    "width": 300
+  },
+  {
+    "imageId": "4",
+    "imageURL": "https://picsum.photos/",
+    "height": 600,
+    "width": 400
+  },
+  {
+    "imageId": "5",
+    "imageURL": "https://picsum.photos/",
+    "height": 600,
+    "width": 300
+  }
+]
